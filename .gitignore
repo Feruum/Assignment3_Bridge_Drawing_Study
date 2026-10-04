@@ -1,0 +1,4 @@
+out/
+*.class
+git-history.bundle
+LOCAL_COMMIT.txt
